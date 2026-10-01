@@ -1,0 +1,6 @@
+{
+  "name": "Rachel Black | HVAC Contractor",
+  "description": "Professional HVAC, air conditioning, and heating system installation, repair, and maintenance based in London W13. Comfort you can count on.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
